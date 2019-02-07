@@ -8,11 +8,11 @@ public class Main {
 
 //Array of food options
 //      String[] type = {"bowl", "tacos", "buritto"};
-        String[] rice = {"white", "brown", "no rice"};
-        String[] meat = {"chicken" , "steak" ,"carnidas" ,"chorizo" ,"sofritas" ,"just veggies"};
-        String[] beans = {"pinto" ,"black" ,"no beans"};
+        String[] rice = {"white rice", "brown rice", "no rice"};
+        String[] meat = {"chicken meat" , "steak meat" ,"carnidas meat" ,"chorizo meat" ,"sofritas meat" ,"just veggies"};
+        String[] beans = {"pinto beans" ,"black beans" ,"no beans"};
         String[] veggies = {"lettuce" ,"fajita veggies" , "no veggies"};
-        String[] salsa = {"mild" ,"medium" , "hot" , "no salsa"};
+        String[] salsa = {"mild salsa" ,"medium salsa" , "hot salsa" , "no salsa"};
 
 //Welcome user
 System.out.println("Welcome to Chipotle! Let's make yummy food now!");
